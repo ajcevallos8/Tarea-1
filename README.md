@@ -1,6 +1,5 @@
 # INFORME TAREA 1
-
-#Universidad de las Fuerzas Armadas ESPE
+Princiios de circuitos elecctricoa - Floyd  Capitulos 1-2
 
 Fundamentos de Circuitos Electricos
 
