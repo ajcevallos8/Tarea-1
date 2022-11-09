@@ -30,6 +30,13 @@ Docente: Ing. Darwin Omar Alulema Flores
 • Aprender a utilizar el multimetro a la hora de medir voltaje, corriente y resistencia.
 # 2. MARCO TEORICO
 ### CAPITULO 1
+![image](https://user-images.githubusercontent.com/116775893/200885091-1abc1f12-49aa-4ea0-a549-135848d0ff06.png)
+![image](https://user-images.githubusercontent.com/116775893/200885370-58ce31e7-d2cf-45f6-bce3-53ae2795d4b3.png)
+
+### CAPITULO 2
+
+![image](https://user-images.githubusercontent.com/116775893/200941683-421d7fd0-30df-417e-bb10-4ca7cede81a1.png)
+
 
 
 # 3. EXPLICACION Y RESOLUCION DE EJERCICOS O PROBLEMAS 
@@ -39,5 +46,7 @@ Docente: Ing. Darwin Omar Alulema Flores
 # 5. CONCLUSIONES 
 
 # 6. BIBLIOGRAFIA
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Pearson Educación
 
 
