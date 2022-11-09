@@ -30,12 +30,13 @@ Docente: Ing. Darwin Omar Alulema Flores
 • Aprender a utilizar el multimetro a la hora de medir voltaje, corriente y resistencia.
 # 2. MARCO TEORICO
 ### CAPITULO 1
-![image](https://user-images.githubusercontent.com/116775893/200885091-1abc1f12-49aa-4ea0-a549-135848d0ff06.png)
-![image](https://user-images.githubusercontent.com/116775893/200885370-58ce31e7-d2cf-45f6-bce3-53ae2795d4b3.png)
+![200885091-1abc1f12-49aa-4ea0-a549-135848d0ff06](https://user-images.githubusercontent.com/116775893/200959402-88e339f5-f525-40d3-88d3-06cbbbaad8a8.png)
+![200885370-58ce31e7-d2cf-45f6-bce3-53ae2795d4b3](https://user-images.githubusercontent.com/116775893/200959449-deaf67b5-57b1-44e5-b0f7-749253f05b93.png)
+
 
 ### CAPITULO 2
-
-![image](https://user-images.githubusercontent.com/116775893/200941683-421d7fd0-30df-417e-bb10-4ca7cede81a1.png)
+![CAPITULO2 (1)](https://user-images.githubusercontent.com/116775893/200959500-10de7bc9-a96b-48dd-a6ae-02217f0b40cc.jpeg)
+![Captura de pantalla 2022-11-09 174721](https://user-images.githubusercontent.com/116775893/200959553-0c23cdec-9014-4d4e-818c-4226905c3cde.png)
 
 
 
