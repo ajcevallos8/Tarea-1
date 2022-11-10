@@ -65,6 +65,8 @@ Docente: Ing. Darwin Omar Alulema Flores
 
 # 4. VIDEO 
 
+https://youtu.be/N_-YCS4yzS4
+
 # 5. CONCLUSIONES 
 
 •  En conclusión, una vez realizados los ejercicios propuestos, se pudo evidenciar que todas las unidades de medida del SI guardan una relación entre sí, que permiten que podamos realizar conversiones de unidades según los requerimientos del problema.
