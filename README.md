@@ -18,7 +18,7 @@ Docente: Ing. Darwin Omar Alulema Flores
 
 • Comprender las ideas básicas sobre corriente y voltaje.
 
-### 1.2 Objetivos espacios 
+### 1.2 Objetivos específicos 
 • Aplicar las diversas equivalencias del sistema internacional de medidas de forma correcta.
 
 • Aprender a transformar valores a notación científica.
